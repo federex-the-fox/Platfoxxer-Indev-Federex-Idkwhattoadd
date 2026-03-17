@@ -1,0 +1,10 @@
+dangaronpa = From steam
+nullscapes = From gamejolt
+sonicexe = From itch.io
+idk = Used/Not official
+geometrydash = Developer copy
+
+Platform:
+	geometrydash
+Update:
+	indev
